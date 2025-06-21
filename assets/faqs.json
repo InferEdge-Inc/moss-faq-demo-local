@@ -1,0 +1,754 @@
+{
+  "faqs": [
+    {
+      "id": 1,
+      "question": "How do I track my order?",
+      "answer": "You can track your order by logging into your account and visiting the 'Order History' section. Each order has a unique tracking number that you can use to monitor its delivery status."
+    },
+    {
+      "id": 2,
+      "question": "What is your return policy?",
+      "answer": "We offer a 30-day return policy for most items. Products must be unused and in their original packaging. Return shipping costs may apply unless the item is defective."
+    },
+    {
+      "id": 3,
+      "question": "How can I change my shipping address?",
+      "answer": "You can change your shipping address before order dispatch by contacting our customer service team. Once an order is dispatched, the shipping address cannot be modified."
+    },
+    {
+      "id": 4,
+      "question": "Do you ship internationally?",
+      "answer": "Yes, we ship to most countries worldwide. International shipping costs and delivery times vary by location. You can check shipping rates during checkout."
+    },
+    {
+      "id": 5,
+      "question": "How do I reset my password?",
+      "answer": "Click the 'Forgot Password' link on the login page. Enter your email address, and we'll send you instructions to reset your password."
+    },
+    {
+      "id": 6,
+      "question": "What payment methods do you accept?",
+      "answer": "We accept Visa, Mastercard, American Express, PayPal, and Apple Pay. All payments are processed securely through our encrypted payment system."
+    },
+    {
+      "id": 7,
+      "question": "How long does shipping take?",
+      "answer": "Standard domestic shipping typically takes 3-5 business days. Express shipping (1-2 business days) is available for most locations at an additional cost."
+    },
+    {
+      "id": 8,
+      "question": "Can I cancel my order?",
+      "answer": "Orders can be cancelled within 1 hour of placement. After that, if the order has not been shipped, you may contact customer service to request cancellation."
+    },
+    {
+      "id": 9,
+      "question": "Do you offer gift wrapping?",
+      "answer": "Yes, gift wrapping is available for most items at checkout for a small additional fee. You can also include a personalized gift message."
+    },
+    {
+      "id": 10,
+      "question": "What is your price match policy?",
+      "answer": "We match prices from authorized retailers for identical items within 14 days of purchase. Send us proof of the lower price, and we'll refund the difference."
+    },
+    {
+      "id": 11,
+      "question": "How do I apply a discount code?",
+      "answer": "Enter your discount code in the 'Promo Code' field during checkout, before completing your payment. Only one discount code can be used per order."
+    },
+    {
+      "id": 12,
+      "question": "What should I do if my item arrives damaged?",
+      "answer": "Take photos of the damaged item and packaging, then contact our customer service within 48 hours of delivery. We'll arrange a return and replacement at no cost."
+    },
+    {
+      "id": 13,
+      "question": "Do you have a loyalty program?",
+      "answer": "Yes, our rewards program gives you points for every purchase. Points can be redeemed for discounts on future orders. Sign up is free through your account."
+    },
+    {
+      "id": 14,
+      "question": "How can I check my order status?",
+      "answer": "Log into your account and go to 'Order History' to view your order status. You'll also receive email updates about your order's progress."
+    },
+    {
+      "id": 15,
+      "question": "What is your warranty policy?",
+      "answer": "Most products come with a manufacturer's warranty. The warranty period varies by product and is listed on the product page. Keep your order confirmation for warranty claims."
+    },
+    {
+      "id": 16,
+      "question": "Do you offer discounts for bulk orders?",
+      "answer": "Yes, we offer tiered discounts for bulk orders. Please contact our sales team for a custom quote based on your order quantity and requirements."
+    },
+    {
+      "id": 17,
+      "question": "How do I contact customer support?",
+      "answer": "Our customer support team is available via live chat on our website, email at support@example.com, or by phone at 1-800-555-1234 from Monday to Friday, 8am-8pm EST."
+    },
+    {
+      "id": 18,
+      "question": "Can I modify my order after placing it?",
+      "answer": "Minor modifications can be made within 1 hour of placing your order. Please contact customer service immediately if you need to make changes."
+    },
+    {
+      "id": 19,
+      "question": "What happens if an item is out of stock?",
+      "answer": "If an item is out of stock after you place your order, we'll notify you promptly and offer either a refund, a similar substitute, or the option to wait for a restock."
+    },
+    {
+      "id": 20,
+      "question": "How do I subscribe to your newsletter?",
+      "answer": "You can subscribe to our newsletter by entering your email in the subscription box on our homepage or during checkout. New subscribers receive a 10% discount on their first order."
+    },
+    {
+      "id": 21,
+      "question": "Are my payment details secure?",
+      "answer": "Yes, we use industry-standard encryption and secure payment processing. We do not store your full credit card details on our servers after your transaction is complete."
+    },
+    {
+      "id": 22,
+      "question": "Do you offer expedited shipping?",
+      "answer": "Yes, we offer expedited shipping options at checkout. Depending on your location, you can choose overnight or two-day shipping for time-sensitive orders."
+    },
+    {
+      "id": 23,
+      "question": "How can I check if an item is in stock?",
+      "answer": "Product pages display current stock information. If an item shows 'In Stock,' it's available for immediate shipment. You can also contact customer service for specific inventory questions."
+    },
+    {
+      "id": 24,
+      "question": "Do you offer price adjustments if an item goes on sale?",
+      "answer": "We offer price adjustments within 14 days of purchase if the same item goes on sale. Contact customer service with your order number to request the adjustment."
+    },
+    {
+      "id": 25,
+      "question": "How do I become a vendor for your marketplace?",
+      "answer": "To become a vendor, please visit our 'Vendor Application' page and complete the form. Our vendor relations team will review your application and contact you within 5 business days."
+    },
+    {
+      "id": 26,
+      "question": "Can I create a business account?",
+      "answer": "Yes, business accounts are available with special features like bulk ordering, invoice payment options, and dedicated account managers. Register through the 'Business Accounts' section."
+    },
+    {
+      "id": 27,
+      "question": "Do you have physical store locations?",
+      "answer": "We have flagship stores in New York, Los Angeles, Chicago, and Miami. Store addresses and hours can be found on our 'Store Locations' page."
+    },
+    {
+      "id": 28,
+      "question": "How do I use my store credit?",
+      "answer": "Store credit is automatically applied at checkout. You can select how much of your available credit to use per order in the payment section."
+    },
+    {
+      "id": 29,
+      "question": "What eco-friendly initiatives do you have?",
+      "answer": "We use recycled packaging materials, offer carbon-neutral shipping options, and donate 1% of annual profits to environmental conservation organizations."
+    },
+    {
+      "id": 30,
+      "question": "Can I order by phone?",
+      "answer": "Yes, you can place orders by phone at 1-800-555-2345 during business hours (Monday-Friday, 9am-6pm EST). Have your product information and payment details ready."
+    },
+    {
+      "id": 31,
+      "question": "How do I report a website technical issue?",
+      "answer": "Please email webmaster@example.com with details of the technical issue, including the device and browser you're using, screenshots if possible, and steps to reproduce the problem."
+    },
+    {
+      "id": 32,
+      "question": "Do you offer gift cards?",
+      "answer": "Yes, digital and physical gift cards are available in denominations from $25 to $500. Digital gift cards are delivered instantly via email, while physical cards can be mailed to any address."
+    },
+    {
+      "id": 33,
+      "question": "How do I unsubscribe from marketing emails?",
+      "answer": "Click the 'Unsubscribe' link at the bottom of any marketing email, or log into your account and update your communication preferences in the 'Account Settings' section."
+    },
+    {
+      "id": 34,
+      "question": "What size should I order?",
+      "answer": "Detailed size charts are available on each product page. If you're between sizes, we generally recommend sizing up. Customer reviews often contain helpful sizing information."
+    },
+    {
+      "id": 35,
+      "question": "Do you have a satisfaction guarantee?",
+      "answer": "Yes, we offer a 100% satisfaction guarantee. If you're not completely satisfied with your purchase, we'll make it right through exchange, repair, or refund."
+    },
+    {
+      "id": 36,
+      "question": "How are shipping costs calculated?",
+      "answer": "Shipping costs are calculated based on order weight, dimensions, delivery location, and selected shipping method. The exact cost is displayed at checkout before payment."
+    },
+    {
+      "id": 37,
+      "question": "Can I save my payment method for future orders?",
+      "answer": "Yes, you can save your payment information securely for faster checkout. This option is available during checkout and can be managed in your account settings."
+    },
+    {
+      "id": 38,
+      "question": "What is your backorder policy?",
+      "answer": "When an item is on backorder, you can still place an order. We'll provide an estimated restock date, and you won't be charged until the item ships."
+    },
+    {
+      "id": 39,
+      "question": "Do you offer student or military discounts?",
+      "answer": "Yes, we offer a 10% discount for students and 15% for military personnel and veterans. Verification is required through ID.me during checkout."
+    },
+    {
+      "id": 40,
+      "question": "How do I view my order history?",
+      "answer": "Log into your account and navigate to 'Order History' to view all past orders. You can also download invoices and track shipments from this section."
+    },
+    {
+      "id": 41,
+      "question": "Can I set up recurring orders?",
+      "answer": "Yes, you can set up auto-delivery for eligible products. Choose your preferred delivery frequency at checkout, and manage your subscriptions in your account dashboard."
+    },
+    {
+      "id": 42,
+      "question": "What is your raincheck policy?",
+      "answer": "If a sale item is out of stock, we offer rainchecks that allow you to purchase the item at the sale price when it's restocked. Contact customer service to request a raincheck."
+    },
+    {
+      "id": 43,
+      "question": "Do you offer assembly services?",
+      "answer": "We offer professional assembly services for furniture and large items in select areas. This option can be added during checkout if available in your location."
+    },
+    {
+      "id": 44,
+      "question": "How do I write a product review?",
+      "answer": "After purchasing a product, you'll receive an email invitation to write a review. Alternatively, log into your account, find the product in your order history, and click 'Write a Review'."
+    },
+    {
+      "id": 45,
+      "question": "What are your sustainable product options?",
+      "answer": "Look for items with our 'Eco-Friendly' tag, which indicates products made with sustainable materials, ethical manufacturing processes, or reduced environmental impact."
+    },
+    {
+      "id": 46,
+      "question": "Do you ship to PO boxes or APO/FPO addresses?",
+      "answer": "Yes, we ship to PO boxes using USPS, and we support shipping to APO/FPO addresses. Please note that delivery times may be extended for these address types."
+    },
+    {
+      "id": 47,
+      "question": "How can I request a product that's not in your catalog?",
+      "answer": "Submit a product request through the 'Product Suggestions' form on our website. Our merchandising team reviews all requests when considering new additions to our catalog."
+    },
+    {
+      "id": 48,
+      "question": "What happens if I miss a delivery?",
+      "answer": "If you miss a delivery, the carrier typically leaves a notice with instructions for rescheduling or pickup. You can also track your package and manage delivery options through your order confirmation email."
+    },
+    {
+      "id": 49,
+      "question": "Can I place an order without creating an account?",
+      "answer": "Yes, we offer guest checkout options. However, creating an account allows you to track orders, save payment information, and earn rewards points."
+    },
+    {
+      "id": 50,
+      "question": "How do I report a damaged package?",
+      "answer": "If your package arrives damaged, please take photos of the damaged box and contents, then contact customer service within 48 hours of delivery. We'll process a claim with the carrier and arrange a replacement."
+    },
+    {
+      "id": 51,
+      "question": "How can I update my billing information?",
+      "answer": "You can update your billing information by navigating to 'Account Settings' and selecting 'Payment Methods'. From there, you can edit existing payment methods or add new ones. Changes are saved immediately."
+    },
+    {
+      "id": 52,
+      "question": "Do you offer installation services?",
+      "answer": "Yes, we offer professional installation services for select products like electronics, appliances, and furniture. Installation services can be added during checkout and costs vary depending on the product and complexity."
+    },
+    {
+      "id": 53,
+      "question": "What is your privacy policy?",
+      "answer": "Our privacy policy details how we collect, use, and protect your personal information. We only collect necessary information, never sell your data to third parties, and use industry-standard security protocols. You can review the full policy on our website."
+    },
+    {
+      "id": 54,
+      "question": "How do I register a product for warranty?",
+      "answer": "To register a product for warranty, log into your account, go to 'My Products', and select 'Register New Product'. You'll need the product's serial number and purchase date. Registration should be completed within 30 days of purchase."
+    },
+    {
+      "id": 55,
+      "question": "Can I change the shipping method after placing an order?",
+      "answer": "Shipping methods can only be changed within the first hour of placing your order. Contact customer service immediately if you need to make this change. After the order enters processing, shipping methods cannot be modified."
+    },
+    {
+      "id": 56,
+      "question": "How do I find my order number?",
+      "answer": "Your order number can be found in the order confirmation email sent at the time of purchase. It's also available in your account under 'Order History'. Order numbers typically begin with the prefix 'ORD-' followed by 8-10 digits."
+    },
+    {
+      "id": 57,
+      "question": "What is your price adjustment timeframe?",
+      "answer": "We offer price adjustments within 14 days of purchase. If an item you bought goes on sale within this timeframe, contact customer service with your order number for a refund of the difference."
+    },
+    {
+      "id": 58,
+      "question": "How do I navigate your website?",
+      "answer": "Our website has a main navigation menu at the top of each page. You can browse by category, use the search bar for specific items, or check out our curated collections. The footer contains links to customer service, policies, and account management."
+    },
+    {
+      "id": 59,
+      "question": "Do you offer payment plans?",
+      "answer": "Yes, we offer flexible payment plans through partners like Affirm and Klarna. During checkout, select the 'Pay Over Time' option to see available installment plans based on your cart total and eligibility."
+    },
+    {
+      "id": 60,
+      "question": "How do I redeem reward points?",
+      "answer": "To redeem reward points, log into your account and go to 'Rewards'. You can apply points during checkout by selecting 'Use Rewards' in the payment section. Every 100 points is equivalent to $5 in store credit."
+    },
+    {
+      "id": 61,
+      "question": "What is your mobile app's functionality?",
+      "answer": "Our mobile app offers all the features of our website plus exclusive mobile features like barcode scanning, push notifications for order updates, and a simplified checkout process. It's available for free on iOS and Android devices."
+    },
+    {
+      "id": 62,
+      "question": "How do I download your mobile app?",
+      "answer": "Our mobile app is available for free download on the Apple App Store for iOS devices and Google Play Store for Android devices. Search for our company name to find and install the app."
+    },
+    {
+      "id": 63,
+      "question": "Can I share my wishlist with others?",
+      "answer": "Yes, you can share your wishlist via email or social media. Go to 'My Wishlist' in your account, click the 'Share' button, and choose your preferred sharing method. Recipients will receive a link to view your wishlist items."
+    },
+    {
+      "id": 64,
+      "question": "How do I compare products on your website?",
+      "answer": "To compare products, click the 'Compare' checkbox on each product you want to evaluate. Once you've selected at least two items, click the 'Compare Products' button that appears at the bottom of the screen to see a side-by-side comparison."
+    },
+    {
+      "id": 65,
+      "question": "What is your low stock notification system?",
+      "answer": "For items showing 'Low Stock' status, you can sign up for restock notifications. Click the 'Notify Me' button on the product page and enter your email. We'll alert you when the item is back in stock."
+    },
+    {
+      "id": 66,
+      "question": "Can I create multiple wishlists?",
+      "answer": "Yes, premium account members can create up to 10 different wishlists for various occasions or categories. Go to 'My Wishlist' and select 'Create New Wishlist' to organize your desired items into separate collections."
+    },
+    {
+      "id": 67,
+      "question": "How do I use filters when shopping?",
+      "answer": "Our filtering system appears on the left side of category pages. You can filter products by price range, brand, customer rating, features, and other attributes specific to the category. Selected filters appear at the top and can be removed individually."
+    },
+    {
+      "id": 68,
+      "question": "What browser works best with your website?",
+      "answer": "Our website is compatible with all major browsers including Chrome, Firefox, Safari, and Edge. For optimal performance, we recommend using the latest version of any of these browsers with JavaScript enabled."
+    },
+    {
+      "id": 69,
+      "question": "How do I clear my browsing history on your site?",
+      "answer": "To clear your browsing history on our site, go to 'Account Settings' and select 'Privacy Settings'. Click 'Clear Browsing History' to remove all recently viewed items. This doesn't affect your purchase history or saved items."
+    },
+    {
+      "id": 70,
+      "question": "What is your referral program?",
+      "answer": "Our referral program rewards you when friends make their first purchase using your unique referral link. You'll receive $20 in store credit for each successful referral, and your friend gets 15% off their first order."
+    },
+    {
+      "id": 71,
+      "question": "How do I generate a return shipping label?",
+      "answer": "To generate a return shipping label, go to 'Order History', select the order containing the item you want to return, and click 'Return Items'. Follow the prompts to select items and reason for return, then print the prepaid shipping label."
+    },
+    {
+      "id": 72,
+      "question": "What is your exchange process?",
+      "answer": "For exchanges, initiate a return through your account and select 'Exchange for Different Size/Color' as the return reason. Once we receive your return, we'll process the exchange and ship the new item. Expedited shipping is available for exchanges."
+    },
+    {
+      "id": 73,
+      "question": "How do I check if a product is compatible with my device?",
+      "answer": "Product pages include compatibility information in the 'Specifications' section. For electronics, you can use our 'Compatibility Checker' tool by entering your device model. If uncertain, contact customer support for verification."
+    },
+    {
+      "id": 74,
+      "question": "What are your sustainable shipping options?",
+      "answer": "We offer carbon-neutral shipping at checkout for an additional $1. This fee goes toward verified carbon offset projects. We also use minimal packaging and encourage selecting our 'Consolidated Shipping' option to receive all items in one delivery."
+    },
+    {
+      "id": 75,
+      "question": "How do I find product dimensions?",
+      "answer": "Product dimensions are listed in the 'Specifications' or 'Details' section of each product page. For furniture and large items, we provide detailed dimension diagrams. You can also find dimensions in the product description for many items."
+    },
+    {
+      "id": 76,
+      "question": "What are your corporate social responsibility initiatives?",
+      "answer": "Our CSR initiatives include our Sustainable Supply Chain program, Community Grant program that donates 2% of profits to local charities, and our Carbon Reduction Plan. You can read our annual Impact Report for details on our social and environmental efforts."
+    },
+    {
+      "id": 77,
+      "question": "How do I find certified refurbished products?",
+      "answer": "Certified refurbished products can be found under the 'Refurbished' category in our main navigation or by using the 'Refurbished' filter when shopping. All refurbished items undergo rigorous testing and come with a special 1-year warranty."
+    },
+    {
+      "id": 78,
+      "question": "What is your holiday shipping schedule?",
+      "answer": "During the holiday season (November-December), we post our shipping deadlines for guaranteed delivery before major holidays on our homepage. We typically offer extended customer service hours and expedited shipping options during this period."
+    },
+    {
+      "id": 79,
+      "question": "How do I make a warranty claim?",
+      "answer": "To make a warranty claim, go to 'Support' and select 'Warranty Claims'. You'll need to provide your order number, product information, and a description of the issue. Include photos if possible. Our warranty team will review your claim within 2 business days."
+    },
+    {
+      "id": 80,
+      "question": "Do you offer virtual shopping assistance?",
+      "answer": "Yes, we offer virtual shopping appointments with product specialists via video call. Schedule an appointment through the 'Virtual Shopping' section of our website, and a specialist will help you find products and answer questions in real-time."
+    },
+    {
+      "id": 81,
+      "question": "How do I access my digital purchases?",
+      "answer": "Digital purchases are accessible immediately after purchase in the 'Digital Library' section of your account. You'll also receive an email with access instructions. Digital content can be accessed across multiple devices with your account login."
+    },
+    {
+      "id": 82,
+      "question": "What is your pre-order policy?",
+      "answer": "For pre-order items, we charge your payment method when the order is placed, not when it ships. The product page will display the estimated release date. You can cancel a pre-order anytime before shipping for a full refund."
+    },
+    {
+      "id": 83,
+      "question": "How do I update my notification preferences?",
+      "answer": "To update notification preferences, go to 'Account Settings' and select 'Notification Preferences'. You can choose which types of communications you receive (order updates, promotions, product alerts) and your preferred methods (email, SMS, push notifications)."
+    },
+    {
+      "id": 84,
+      "question": "What is your accessible shopping program?",
+      "answer": "Our accessible shopping program provides additional assistance to customers with disabilities. Features include our screen-reader optimized website, specialized customer service representatives, and alternative format product information upon request."
+    },
+    {
+      "id": 85,
+      "question": "How do I participate in product testing?",
+      "answer": "To participate in product testing, join our Product Insider program through your account settings. Selected participants receive pre-release products to test and provide feedback. Selection is based on purchase history and demographic information."
+    },
+    {
+      "id": 86,
+      "question": "What is your flash sale notification system?",
+      "answer": "Opt in to flash sale notifications in your account settings under 'Deals & Promotions'. You'll receive alerts about limited-time sales before they're widely announced. Premium members receive early access to flash sales 2 hours before they go public."
+    },
+    {
+      "id": 87,
+      "question": "How do I add product care instructions to my account?",
+      "answer": "Care instructions for purchased products are automatically saved to the 'My Products' section of your account. You can also manually add care notes to any product by selecting the item in your order history and clicking 'Add Care Notes'."
+    },
+    {
+      "id": 88,
+      "question": "What is your process for handling claims of counterfeit products?",
+      "answer": "We have a zero-tolerance policy for counterfeit products. If you suspect you've received a counterfeit item, contact our Authenticity Team immediately with photos and details. We'll investigate, provide a prepaid return label, and issue a full refund if verified."
+    },
+    {
+      "id": 89,
+      "question": "How do I opt out of data sharing?",
+      "answer": "To opt out of data sharing, go to 'Account Settings', select 'Privacy & Data', and adjust your preferences under 'Data Sharing Options'. You can choose to limit data sharing with partners or opt out entirely, though this may affect personalized recommendations."
+    },
+    {
+      "id": 90,
+      "question": "What is your bundle discount policy?",
+      "answer": "Bundle discounts automatically apply when you add qualifying combinations of products to your cart. Look for 'Bundle & Save' icons on product pages. Typically, buying 2 related items saves 10%, 3 items saves 15%, and 4+ items saves 20%."
+    },
+    {
+      "id": 91,
+      "question": "How do I become a product supplier?",
+      "answer": "Potential suppliers can apply through the 'Become a Supplier' form in the business section of our website. Include information about your products, manufacturing processes, and capacity. Our sourcing team reviews applications quarterly."
+    },
+    {
+      "id": 92,
+      "question": "What is your livestream shopping schedule?",
+      "answer": "Our livestream shopping events are scheduled weekly and posted in the 'Events' section of our website and app. Follow us on social media for announcements. Livestreams feature product demonstrations, Q&A sessions, and exclusive discounts."
+    },
+    {
+      "id": 93,
+      "question": "How do I set up parental controls for a child's account?",
+      "answer": "Parental controls are available for teen accounts (ages 13-17). In your account settings, select 'Family Accounts', then 'Add Teen Account'. You can set spending limits, approve purchases, and restrict product categories they can browse."
+    },
+    {
+      "id": 94,
+      "question": "What certifications do your products have?",
+      "answer": "Product certifications are listed in the 'Specifications' section of each product page. We carry products with various certifications including Energy Star, USDA Organic, Fair Trade, FSC, GOTS, and OEKO-TEX. You can filter products by certification when shopping."
+    },
+    {
+      "id": 95,
+      "question": "How do I access product manuals?",
+      "answer": "Digital versions of product manuals are available in the 'My Products' section of your account for items you've purchased. You can also find manuals on individual product pages under 'Documents & Guides' or by searching our manual database in the Support section."
+    },
+    {
+      "id": 96,
+      "question": "What is your B2B program?",
+      "answer": "Our B2B program offers volume discounts, dedicated account managers, and flexible payment terms for businesses. Benefits increase with annual purchase volume. Apply through the 'Business Solutions' section of our website with your business details and tax ID."
+    },
+    {
+      "id": 97,
+      "question": "How do I request custom products?",
+      "answer": "Custom product requests can be submitted through the 'Custom Orders' form in our customer service section. Include specifications, quantity needed, and timeline. Custom orders typically require a 50% deposit and have a minimum order quantity."
+    },
+    {
+      "id": 98,
+      "question": "What is your inclement weather delivery policy?",
+      "answer": "During severe weather, deliveries may be delayed for safety reasons. We'll notify you of any weather-related delays via email and text. You can check the status of weather impacts on our 'Service Updates' page or contact customer service for specific information."
+    },
+    {
+      "id": 99,
+      "question": "How do I find limited edition products?",
+      "answer": "Limited edition products are featured in our 'Exclusives' section and marked with a 'Limited Edition' badge. Premium members receive early access notifications for limited releases. You can also sign up for category-specific alerts for upcoming limited editions."
+    },
+    {
+      "id": 100,
+      "question": "What is your waitlist system?",
+      "answer": "For high-demand products that are out of stock, you can join the waitlist by clicking 'Join Waitlist' on the product page. Waitlist position is first-come, first-served, and you'll receive an email when the item is available for you to purchase."
+    },
+    {
+      "id": 101,
+      "question": "How do I track my repair status?",
+      "answer": "Repair status can be tracked through the 'Repair Services' section of your account. Enter your repair ticket number to see real-time updates. You'll also receive email notifications at key stages of the repair process."
+    },
+    {
+      "id": 102,
+      "question": "What is your product authenticity guarantee?",
+      "answer": "We guarantee that all products sold on our platform are 100% authentic. Selected luxury and high-value items come with authenticity certificates. If you question a product's authenticity, we offer free verification and a double-money-back guarantee if counterfeit."
+    },
+    {
+      "id": 103,
+      "question": "How do I adjust my subscription delivery schedule?",
+      "answer": "To adjust your subscription schedule, go to 'My Subscriptions' in your account and select the subscription you want to modify. You can change delivery frequency, skip deliveries, or pause your subscription temporarily without canceling."
+    },
+    {
+      "id": 104,
+      "question": "What are your sustainable packaging options?",
+      "answer": "At checkout, you can select 'Eco-Friendly Packaging' which uses minimal, recyclable materials. For gift orders, our 'Green Gifting' option uses reusable fabric wrapping. You can also choose 'No Extra Packaging' for items that don't require additional protection."
+    },
+    {
+      "id": 105,
+      "question": "How do I report a missing item from my order?",
+      "answer": "To report a missing item, go to 'Order History', select the affected order, and click 'Report Problem'. Choose 'Missing Item' and specify which items weren't received. Our customer service team will investigate and resolve the issue within 1-2 business days."
+    },
+    {
+      "id": 106,
+      "question": "What is your price matching guarantee?",
+      "answer": "Our price matching guarantee applies to identical items from authorized retailers within 14 days of purchase. Send screenshots or links to the lower price via our Price Match form. We'll verify and refund the difference to your original payment method."
+    },
+    {
+      "id": 107,
+      "question": "How do I check product compatibility with my existing items?",
+      "answer": "Our 'Compatibility Checker' tool is available on product pages for items where compatibility matters. Enter the model numbers of your existing products to check compatibility. For complex systems like smart home devices, use our 'Ecosystem Compatibility' guide."
+    },
+    {
+      "id": 108,
+      "question": "What is your trade-in program?",
+      "answer": "Our trade-in program accepts used electronics and appliances for store credit. Check trade-in values through the 'Trade-In Estimator' tool, then bring items to a store location or use our mail-in option. Credit is typically issued within 5-7 days after item inspection."
+    },
+    {
+      "id": 109,
+      "question": "How do I sign up for text message order updates?",
+      "answer": "To receive text updates, select 'Text Message Updates' during checkout or enable them in 'Communication Preferences' in your account settings. You can choose which updates to receive via text, including order confirmations, shipping notifications, and delivery alerts."
+    },
+    {
+      "id": 110,
+      "question": "What is your extended warranty coverage?",
+      "answer": "Extended warranties provide additional protection beyond the manufacturer's warranty. Coverage includes repair/replacement for mechanical and electrical failures, power surge damage, and normal wear and tear. Accidental damage protection is available as an add-on in most cases."
+    },
+    {
+      "id": 111,
+      "question": "How do I set up in-store pickup?",
+      "answer": "Select 'In-Store Pickup' at checkout and choose your preferred store location. You'll receive an email when your order is ready, typically within 2 hours for in-stock items. Bring your ID and order confirmation to the customer service desk to collect your purchase."
+    },
+    {
+      "id": 112,
+      "question": "What is your abandoned cart policy?",
+      "answer": "Items in your cart are saved for 30 days if you're logged in, 7 days if you're not. Price and availability are updated when you return. We may send a reminder email with a discount code if you leave items in your cart for more than 24 hours."
+    },
+    {
+      "id": 113,
+      "question": "How do I place an international order?",
+      "answer": "Our website automatically detects your location and shows available shipping options. Select your country at checkout if needed. International orders may incur import duties and taxes collected upon delivery. We ship to over 100 countries with delivery estimates provided at checkout."
+    },
+    {
+      "id": 114,
+      "question": "What is your curbside pickup process?",
+      "answer": "Select 'Curbside Pickup' at checkout and choose your store location. When you arrive, park in a designated spot and check in via our app or text the number provided in your confirmation. An associate will bring your order to your vehicle within minutes."
+    },
+    {
+      "id": 115,
+      "question": "How do I find products made in specific countries?",
+      "answer": "Use the 'Country of Origin' filter when browsing products or include the country name in your search terms. Product pages list manufacturing origins in the 'Product Details' section. You can also contact customer service for products from specific regions."
+    },
+    {
+      "id": 116,
+      "question": "What is your policy on product recalls?",
+      "answer": "We promptly notify customers who purchased recalled products via email. Recall notices are also posted on our website's 'Product Safety' page. Depending on the recall, we offer repairs, replacements, or refunds according to manufacturer instructions."
+    },
+    {
+      "id": 117,
+      "question": "How do I request an invoice for business purchases?",
+      "answer": "Business account holders can request detailed invoices by selecting 'Generate Invoice' in their order history. For special invoice requirements, contact our B2B team. Invoices can be customized with purchase order numbers and department codes for business accounts."
+    },
+    {
+      "id": 118,
+      "question": "What is your new customer discount?",
+      "answer": "New customers receive a 15% discount on their first purchase when they create an account and sign up for our newsletter. The discount code is sent via email immediately after account creation and is valid for 30 days on most products."
+    },
+    {
+      "id": 119,
+      "question": "How do I download receipts for tax purposes?",
+      "answer": "Digital receipts for all purchases are available in the 'Order History' section of your account. Click the 'Download Receipt' button for a PDF suitable for tax purposes. Business account holders can access itemized receipts with tax details in the 'Business Documents' section."
+    },
+    {
+      "id": 120,
+      "question": "What is your sponsorship and donation policy?",
+      "answer": "We consider sponsorship and donation requests from registered non-profit organizations. Submit requests through the 'Community Relations' form at least 8 weeks before your event. We prioritize causes aligned with our corporate social responsibility focus areas."
+    },
+    {
+      "id": 121,
+      "question": "How do I request a rain check for out-of-stock sale items?",
+      "answer": "Rain checks can be requested by contacting customer service with the product information and sale details within 3 days of the sale ending. If approved, we'll honor the sale price when the item is back in stock for up to 30 days."
+    },
+    {
+      "id": 122,
+      "question": "What is your product demonstration program?",
+      "answer": "Product demonstrations are available by appointment at our physical store locations. Virtual demonstrations can be scheduled through our website for online shoppers. Some products also have interactive demo videos available on their product pages."
+    },
+    {
+      "id": 123,
+      "question": "How do I opt into beta testing new features?",
+      "answer": "You can opt into beta testing by going to 'Account Settings' and selecting 'Beta Program'. Once enrolled, you'll get early access to new website and app features. Beta testers who provide quality feedback earn additional rewards points."
+    },
+    {
+      "id": 124,
+      "question": "What is your policy on pricing errors?",
+      "answer": "We reserve the right to cancel orders resulting from obvious pricing errors. If this occurs, we'll notify you promptly and offer the option to purchase at the correct price or receive a full refund. For minor errors in your favor, we typically honor the displayed price."
+    },
+    {
+      "id": 125,
+      "question": "How do I get a copy of my entire purchase history?",
+      "answer": "A complete purchase history report can be generated by going to 'Account' and selecting 'Download Purchase History'. You can select a date range and export the data in CSV or PDF format. Reports include all purchases, returns, and warranty claims."
+    },
+    {
+      "id": 126,
+      "question": "What is your marketplace seller vetting process?",
+      "answer": "Marketplace sellers undergo a rigorous vetting process including business verification, product quality assessment, and customer service capability evaluation. Only about 20% of applicants are approved. All sellers must maintain a minimum 4.2-star rating to remain on our platform."
+    },
+    {
+      "id": 127,
+      "question": "How do I find hypoallergenic products?",
+      "answer": "Use the 'Hypoallergenic' filter when browsing or search 'hypoallergenic' plus the product type. Product pages clearly indicate hypoallergenic status in the 'Features' section. We also have a curated 'Allergen-Friendly' collection accessible from our main navigation."
+    },
+    {
+      "id": 128,
+      "question": "What is your white glove delivery service?",
+      "answer": "White glove delivery includes in-home delivery, unpacking, basic assembly, and packaging removal. This premium service is available for furniture and large items at an additional cost shown at checkout. Scheduling is flexible with specific time windows available."
+    },
+    {
+      "id": 129,
+      "question": "How do I submit product improvement suggestions?",
+      "answer": "Product improvement suggestions can be submitted through the 'Feedback' form on product pages or via the 'Product Suggestions' section in your account. Particularly valuable suggestions may earn rewards points or discount codes as a thank you."
+    },
+    {
+      "id": 130,
+      "question": "What is your layaway program?",
+      "answer": "Our layaway program allows you to reserve items with a 20% deposit and make payments over 60 days. Available for purchases over $200. Make payments anytime through your account. Once fully paid, items are shipped or available for pickup."
+    },
+    {
+      "id": 131,
+      "question": "How do I find products suitable for specific age groups?",
+      "answer": "Use the 'Age Range' filter when browsing categories like toys, clothing, or electronics. Product pages include recommended age ranges in the specifications. We also have curated collections for different age groups accessible from the main navigation."
+    },
+    {
+      "id": 132,
+      "question": "What is your policy on discontinued products?",
+      "answer": "When products are discontinued, they're marked as 'Last Chance' and often discounted. We maintain support and warranty service for discontinued items according to their original warranty terms. Where possible, we suggest alternative products that serve similar functions."
+    },
+    {
+      "id": 133,
+      "question": "How do I request special handling for fragile items?",
+      "answer": "Select 'Special Handling - Fragile' during checkout for extra packaging protection on delicate items. This service adds $5-10 depending on the item size and includes extra cushioning, fragile labeling, and specialized carrier handling instructions."
+    },
+    {
+      "id": 134,
+      "question": "What is your subscription pricing guarantee?",
+      "answer": "Our subscription pricing guarantee ensures your recurring order price won't increase for at least 6 months, even if the standard price goes up. If a subscription item goes on sale, you'll automatically receive the lower price for that delivery."
+    },
+    {
+      "id": 135,
+      "question": "How do I find products with free gifts or bonuses?",
+      "answer": "Products with free gifts are marked with a 'Free Gift' badge in search results and category pages. We also have a 'Special Offers' section featuring all current promotions including gift-with-purchase deals. These offers are typically time-limited."
+    },
+    {
+      "id": 136,
+      "question": "What is your policy on backordered items in mixed orders?",
+      "answer": "When ordering both in-stock and backordered items, you can choose to receive available items immediately or wait for complete shipment. If shipped separately, no additional shipping fees apply. Backordered items don't charge your payment method until they ship."
+    },
+    {
+      "id": 137,
+      "question": "How do I access VIP customer service?",
+      "answer": "VIP customer service is available to premium account members and customers who spend over $1,000 annually. VIP service includes a dedicated phone line, priority email support, and personal shopping assistance. Access information is provided to qualifying customers automatically."
+    },
+    {
+      "id": 138,
+      "question": "What is your process for handling damaged shipments?",
+      "answer": "If your package arrives visibly damaged, note this with the delivery person and take photos before opening. Contact us within 24 hours and we'll arrange replacement, return, or compensation. Keep all original packaging for carrier inspection if needed."
+    },
+    {
+      "id": 139,
+      "question": "How do I find locally sourced products?",
+      "answer": "Look for the 'Locally Sourced' badge on product listings. You can also filter for local products based on your shipping address. Our 'Community Makers' collection features products from small businesses and artisans in specific regions."
+    },
+    {
+      "id": 140,
+      "question": "What is your holiday gift return policy?",
+      "answer": "Holiday purchases made between November 1 and December 24 can be returned until January 31 of the following year. Gift receipts extend the standard return window by 15 days and allow for merchandise credit without the original payment method."
+    },
+    {
+      "id": 141,
+      "question": "How do I schedule a return pickup from my home?",
+      "answer": "Return pickups can be scheduled when creating a return in your account. Select 'Schedule Pickup' instead of 'Print Label'. Choose a date and time window, and the carrier will collect the package from your address. A convenience fee applies except for defective items."
+    },
+    {
+      "id": 142,
+      "question": "What is your price protection period?",
+      "answer": "Our 30-day price protection guarantees you'll get the benefit of any price reduction on your purchase within 30 days of your order. Contact customer service with your order number to request a refund of the difference if the price drops."
+    },
+    {
+      "id": 143,
+      "question": "How do I find products compatible with voice assistants?",
+      "answer": "Use the 'Smart Home Compatibility' filter and select your voice assistant platform (Alexa, Google Assistant, Siri, etc.). Product pages list compatible ecosystems in the 'Specifications' section. We also have curated collections for each major smart home platform."
+    },
+    {
+      "id": 144,
+      "question": "What is your policy on partial shipments?",
+      "answer": "When items in your order are available at different times, we may ship them separately to get them to you sooner. You won't be charged additional shipping fees for partial shipments. You can opt out of partial shipments during checkout by selecting 'Complete Shipment Only'."
+    },
+    {
+      "id": 145,
+      "question": "How do I request gift messaging for multiple items?",
+      "answer": "During checkout, select 'Add Gift Options' and choose either one message for the entire order or 'Individual Gift Messages' to create unique messages for different items. Gift messaging is available for both physical and digital gift cards."
+    },
+    {
+      "id": 146,
+      "question": "What is your legacy product support policy?",
+      "answer": "We provide support resources for products up to 7 years after they're discontinued. This includes access to manuals, troubleshooting guides, and compatible accessories. For very old products, we maintain a community forum where users can exchange advice."
+    },
+    {
+      "id": 147,
+      "question": "How do I find expert product recommendations?",
+      "answer": "Our 'Expert Picks' section features staff-selected products with detailed recommendations. You can also use our 'Product Advisor' tool which asks about your needs and preferences to suggest appropriate items. Live chat with product specialists is available for personalized advice."
+    },
+    {
+      "id": 148,
+      "question": "What is your policy on price fluctuations after ordering?",
+      "answer": "Once your order is confirmed, your price is locked in regardless of subsequent increases. If the price decreases before your order ships, we'll automatically adjust to the lower price. For fluctuations after shipping but within 14 days, contact us for price adjustment."
+    },
+    {
+      "id": 149,
+      "question": "How do I participate in product focus groups?",
+      "answer": "Sign up for product focus groups through the 'Research Panel' section in your account settings. Selected participants receive compensation in the form of store credit or free products. Selection is based on demographic information and purchase history relevant to the research topic."
+    },
+    {
+      "id": 150,
+      "question": "What is your social media support policy?",
+      "answer": "We offer customer support through our official social media channels during business hours. For public questions, we respond within 2 hours. For private support issues, use direct messages. Include your order number for faster assistance with specific orders."
+    }
+  ]
+}
