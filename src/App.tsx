@@ -23,7 +23,7 @@ function App() {
           </Routes>
         </main>
         <footer>
-          <p>© 2023 FAQ Search App</p>
+          <p>© 2025 FAQ Search App</p>
         </footer>
       </div>
     </Router>
