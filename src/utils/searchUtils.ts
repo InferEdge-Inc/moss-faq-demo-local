@@ -38,7 +38,12 @@ export const initializeSearchIndex = async (faqs: FAQ[]): Promise<void> => {
         console.log(new Date().toLocaleTimeString());
         console.log("Starting search index initialization...");
 
-        const didCreate = await mossClient.createIndex(faqIndexId, "moss-mediumlm");
+        const didCreate = await mossClient.createIndex(faqIndexId, "moss-mediumlm", {
+            // chunkingOptions: {
+            //     maxTokensPerChunk: 128, // default is 128
+            //     overlapTokens: 16, // default is 16
+            // }
+        });
 
         if (!didCreate) {
             console.error("Failed to create FAQ index");
@@ -53,7 +58,7 @@ export const initializeSearchIndex = async (faqs: FAQ[]): Promise<void> => {
 
         isInitialized = true;
         console.log(new Date().toLocaleTimeString());
-        console.log("Search index initialized with " + faqs.length + " FAQs");
+        console.log("Search index initialized with " + mossClient.getItemCount(faqIndexId) + " chunks");
     } catch (error) {
         console.error("Error during index initialization:", error);
         throw error;
@@ -88,7 +93,7 @@ export const searchFAQs = async (faqs: FAQ[], term: string): Promise<SearchResul
     try {
         // Use the existing index to perform the search
         console.log("Searching for term:", termLower);
-        const searchResults: MossSearchResult = await mossClient.query(faqIndexId, termLower);
+        const searchResults: MossSearchResult = await mossClient.query(faqIndexId, termLower, { topResultsCount: 10 });
         console.log("Search results:", searchResults);
 
         // Filter out any matches where the FAQ is not found
