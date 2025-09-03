@@ -1,4 +1,4 @@
-import faqsData from '../../assets/faqs.json';
+import faqsData from './faqs.json';
 
 export interface FAQ {
   id: number;
