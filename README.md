@@ -107,7 +107,6 @@ src/
 
 - `npm run dev` - Start development server
 - `npm run build` - Build for production
-- `npm run preview` - Preview production build
 - `npm run lint` - Run ESLint checks
 
 ## 🔑 Environment Variables
@@ -115,22 +114,6 @@ src/
 | Variable            | Description                      | Required |
 | ------------------- | -------------------------------- | -------- |
 | `VITE_TEST_API_KEY` | MOSS API key for semantic search | Yes      |
-
-## 🚀 Deployment
-
-1. **Build the project**
-
-   ```bash
-   npm run build
-   ```
-
-2. **Preview the build** (optional)
-
-   ```bash
-   npm run preview
-   ```
-
-3. **Deploy** the `dist` folder to your preferred hosting service
 
 ## 🤝 Contributing
 
